@@ -1,4 +1,4 @@
-# Geometrical mesh processing algorithms
+# Geometrical mesh processing 
 
 This project aims to implement efficient online queries on given triangular mesh.
 
